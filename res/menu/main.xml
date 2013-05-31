@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+<!--     <item
+        android:id="@+id/action_search"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/action_search"
+        android:title="@string/search"/>
+ -->
+    <item
+        android:id="@+id/action_filter"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/filter_48"
+        android:title="@string/filter"/>
+    
+    <item
+        android:id="@+id/action_refresh"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/navigation_refresh"
+        android:title="@string/refresh"/>
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:showAsAction="never"        
+        android:icon="@drawable/action_settings"/>
+    
+    <item
+        android:id="@+id/action_help"
+        android:title="@string/help"
+        android:showAsAction="never"        
+        android:icon="@drawable/action_help"/>
+
+</menu>

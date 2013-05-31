@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="load_more">点击加载</string>
+    <string name="net_unavailable">网络不可用</string>
+    <string name="no_more_data">已经是最后一条数据</string>
+	<string name="load_success_msg">%1$d条数据符合当前筛选条件, 展示了%2$d条</string>
+	<string name="max_page_reached">移动客户端最多允许展示%d条记录</string>
+</resources>
